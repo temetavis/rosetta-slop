@@ -1,0 +1,4 @@
+_crop_*.png
+_full_small.png
+__pycache__/
+*.pyc
